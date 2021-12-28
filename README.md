@@ -1,0 +1,2 @@
+# JavaScriptProblem
+Leia um inteiro N que é o número de casos de teste. Cada caso de teste é uma linha contendo dois números inteiros X e Y. Imprime a soma de todos os valores ímpares entre eles, não incluindo X e Y.  Entrada A primeira linha de entrada é um inteiro N que é o número de casos de teste que se seguem. Cada caso de teste é uma linha contendo dois inteiros X e Y.  Saída Imprima a soma de todos os números ímpares entre X e Y.
